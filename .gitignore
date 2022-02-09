@@ -1,0 +1,4 @@
+node_modules
+data/files
+data/database.sqlite
+.idea
